@@ -9,7 +9,7 @@ use Iloveimg\CompressImageTask;
 
 // you can call task class directly
 // to get your key pair, please visit https://developer.iloveimg.com/user/projects
-$myTask = new CompresImageTask('project_public_id','project_secret_key');
+$myTask = new CompresssImageTask('project_public_id','project_secret_key');
 
 // file var keeps info about server file id, name...
 // it can be used latter to cancel file
